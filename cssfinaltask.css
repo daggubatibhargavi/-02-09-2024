@@ -55,6 +55,8 @@ header a {
   margin: 10px 0px;
 }
 #PROJECTS {
+  /* display: flex;
+  justify-content: space-around; */
   background-color: darkgrey;
   padding: 10px 20px;
   margin-top: 5px;
@@ -129,10 +131,6 @@ footer .up-links {
     display: flex;
     flex-direction: column;
   }
-  /* header a:hover {
-    color: darkblue;
-    /* transform: scale(1.1); */
-  } */
   #ABOUT {
     flex-direction: column;
     text-align: center;
